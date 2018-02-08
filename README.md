@@ -11,4 +11,12 @@ as the yaml file. This will automatically source any
 specify some environment variables for PostgresSQL, otherwise
 it will not function (or launch).
 
+Example environment variables:
+```
+POSTGRES_USER=foo
+POSTGRES_PASSWORD=bar
+POSTGRES_DB=woot
+```
+
+
 License: The Unlicense
